@@ -3,10 +3,10 @@ using namespace std;
 
 
 string name[20];
-depart_name[20];
-room_no[20];
-roll_no[20];
-phone_no[20];
+string depart_name[20];
+string room_no[20];
+string roll_no[20];
+string phone_no[20];
 
 int total=0;
 
